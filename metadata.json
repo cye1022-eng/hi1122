@@ -1,0 +1,6 @@
+{
+  "name": "PGM-Smart Tracker",
+  "description": "Integrated production performance management and intelligent monitoring system with automated Word reporting and data mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
